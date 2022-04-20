@@ -68,7 +68,7 @@ ul{
 
 /* sezione5 */
 
-.table-first{
+/* .table-first{
    margin-bottom: 30px;
 }
 .th-color{
@@ -79,7 +79,36 @@ ul{
 
 .td-color{
     background-color: lightblue;
+} */
+
+.row1{
+    background-color:#55d1f7;
+    color: white;
 }
+
+
+.row-left{
+    width: 25%;
+    display: inline-block;
+
+}
+
+.row-center{
+    width: 25%;
+    display: inline-block;
+    
+}
+
+.row-right{
+    width: 48%;
+    display: inline-block;
+}
+
+.row-pari{
+    
+    background-color: rgb(197, 243, 255);
+}
+
 
 /* footer */
 footer{
