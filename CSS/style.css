@@ -58,6 +58,10 @@ h1{
     font-size: 17px;
 }
 
+ul{
+    padding-left: 20px;
+}
+
 .evidenziato{
     background-color: rgb(255, 255, 132);
 }
