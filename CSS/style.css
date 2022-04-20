@@ -4,14 +4,74 @@
     box-sizing: border-box;
 }
 
+/* header */
 .logo-image{
-    width: 200px;
-    margin-top: 30px;
+    width: 210px;
+    margin-top: 45px;
+    margin-bottom: 7px;
+    padding-left: 7px;
 }
 
 .container-head{
     background-color: #4ea0ff;
     background-image: url('../img/pattern.png');
     background-size: contain;
+}
 
+/* main */
+
+
+main{
+    width: 95%;
+    margin: auto;
+}
+
+/* section1 */
+h1{
+    font-size: 40px;
+}
+
+.p-writer{
+    color: grey;
+    font-size: 18px;
+}
+
+.span-blue{
+    color: #04b7ee;
+}
+.p-data{
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+/* section2 */
+
+.description-photo{
+    font-size: 13px;
+}
+
+/* sezione3 */
+.paragrafo{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 17px;
+}
+
+.evidenziato{
+    background-color: rgb(255, 255, 132);
+}
+
+/* sezione5 */
+
+.table-first{
+   margin-bottom: 30px;
+}
+.th-color{
+    color: white;
+    background-color: #4ea0ff;
+
+}
+
+.td-color{
+    background-color: lightblue;
 }
